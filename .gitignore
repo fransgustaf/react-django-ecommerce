@@ -1,0 +1,6 @@
+venv/
+.*~
+*.pyc
+
+proshop_django/
+.vscode/
